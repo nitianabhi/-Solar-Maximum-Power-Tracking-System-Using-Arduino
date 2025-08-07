@@ -11,14 +11,17 @@ The project is based on the principle of a light-following mechanism:
 - The difference in light intensity from the two LDRs is measured.
 - Depending on which side is brighter, the servo motor rotates to align with the light.
 
-### Theory in Images:
+## Theory in Images:
 <img width="614" height="800" alt="Image" src="https://github.com/user-attachments/assets/33aa047b-ae23-4adc-aa9a-bbb48a06c245" />
+
 *Light sensing using LDRs.*
 
 <img width="718" height="843" alt="Image" src="https://github.com/user-attachments/assets/132777bc-d4a9-4f5b-8300-bd9c6d4bbf19" />
+
 *Error calculation based on the difference in LDR readings.*
 
 <img width="719" height="482" alt="Image" src="https://github.com/user-attachments/assets/e223dacf-0d7e-4e02-96f2-dcff1dfcae0b" />
+
 *Servo adjusts its position according to the light direction.*
 
 ---
@@ -34,9 +37,11 @@ The project is based on the principle of a light-following mechanism:
 
 ### Components in Images:
 <img width="698" height="798" alt="Image" src="https://github.com/user-attachments/assets/2568071b-af66-418c-9e1a-4df5bb213771" />
+
 *All electronic components.*
 
 <img width="719" height="212" alt="Image" src="https://github.com/user-attachments/assets/2eaaee0b-c326-44ea-bdf5-fa4099c31cd9" />
+
 *Close-up of the servo and LDRs.*
 
 ---
@@ -47,9 +52,11 @@ The two LDRs are connected to the analog pins of the Arduino. A voltage divider 
 
 ### Circuit in Images:
 <img width="783" height="426" alt="Image" src="https://github.com/user-attachments/assets/11ad8f74-a729-419e-990a-362ce7e8884b" />
+
 *Wiring diagram of the setup.*
 
 <img width="659" height="570" alt="Image" src="https://github.com/user-attachments/assets/b58e3609-8b0d-408e-b8c3-c2893fa06c57" />
+
 *Breadboard connection of the circuit.*
 
 <img width="716" height="800" alt="Image" src="https://github.com/user-attachments/assets/e0f2dfe6-fac1-4bff-9398-e46b3fc1e3dc" />
@@ -65,9 +72,11 @@ The two LDRs are connected to the analog pins of the Arduino. A voltage divider 
 
 ### Code in Images:
 <img width="405" height="856" alt="Image" src="https://github.com/user-attachments/assets/60affdac-7d9a-48aa-8208-ccfa53b1f2e2" />
+
 *Reading LDR values and calculating error.*
 
 <img width="405" height="856" alt="Image" src="https://github.com/user-attachments/assets/60affdac-7d9a-48aa-8208-ccfa53b1f2e2" />
+
 *Controlling servo position based on error.*
 
 ---
