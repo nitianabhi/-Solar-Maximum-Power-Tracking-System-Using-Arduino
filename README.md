@@ -15,10 +15,10 @@ The project is based on the principle of a light-following mechanism:
 <img width="614" height="800" alt="Image" src="https://github.com/user-attachments/assets/33aa047b-ae23-4adc-aa9a-bbb48a06c245" />
 *Light sensing using LDRs.*
 
-![Theory 2](images/theory2.png)
+<img width="718" height="843" alt="Image" src="https://github.com/user-attachments/assets/132777bc-d4a9-4f5b-8300-bd9c6d4bbf19" />
 *Error calculation based on the difference in LDR readings.*
 
-![Theory 3](images/theory3.png)
+<img width="719" height="482" alt="Image" src="https://github.com/user-attachments/assets/e223dacf-0d7e-4e02-96f2-dcff1dfcae0b" />
 *Servo adjusts its position according to the light direction.*
 
 ---
@@ -33,10 +33,10 @@ The project is based on the principle of a light-following mechanism:
 - Power supply
 
 ### Components in Images:
-![Components 1](images/components1.png)
+<img width="698" height="798" alt="Image" src="https://github.com/user-attachments/assets/2568071b-af66-418c-9e1a-4df5bb213771" />
 *All electronic components.*
 
-![Components 2](images/components2.png)
+<img width="719" height="212" alt="Image" src="https://github.com/user-attachments/assets/2eaaee0b-c326-44ea-bdf5-fa4099c31cd9" />
 *Close-up of the servo and LDRs.*
 
 ---
