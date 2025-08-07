@@ -64,10 +64,10 @@ The two LDRs are connected to the analog pins of the Arduino. A voltage divider 
 - The servo stops when the difference falls below the threshold.
 
 ### Code in Images:
-![Code 1](images/codeworks1.png)
+<img width="405" height="856" alt="Image" src="https://github.com/user-attachments/assets/60affdac-7d9a-48aa-8208-ccfa53b1f2e2" />
 *Reading LDR values and calculating error.*
 
-![Code 2](images/code2.png)
+<img width="405" height="856" alt="Image" src="https://github.com/user-attachments/assets/60affdac-7d9a-48aa-8208-ccfa53b1f2e2" />
 *Controlling servo position based on error.*
 
 ---
