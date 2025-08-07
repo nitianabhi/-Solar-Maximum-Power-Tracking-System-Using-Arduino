@@ -12,7 +12,7 @@ The project is based on the principle of a light-following mechanism:
 - Depending on which side is brighter, the servo motor rotates to align with the light.
 
 ### Theory in Images:
-![Theory 1](images/theory1.png)
+<img width="614" height="800" alt="Image" src="https://github.com/user-attachments/assets/33aa047b-ae23-4adc-aa9a-bbb48a06c245" />
 *Light sensing using LDRs.*
 
 ![Theory 2](images/theory2.png)
