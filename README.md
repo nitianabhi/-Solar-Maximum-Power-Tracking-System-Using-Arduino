@@ -46,15 +46,15 @@ The project is based on the principle of a light-following mechanism:
 The two LDRs are connected to the analog pins of the Arduino. A voltage divider is used with each LDR to provide a measurable voltage. The servo motor signal wire is connected to a PWM-capable digital pin.
 
 ### Circuit in Images:
-![Circuit 1](images/connection1.png)
+<img width="783" height="426" alt="Image" src="https://github.com/user-attachments/assets/11ad8f74-a729-419e-990a-362ce7e8884b" />
 *Wiring diagram of the setup.*
 
-![Circuit 2](images/connection2.png)
+<img width="659" height="570" alt="Image" src="https://github.com/user-attachments/assets/b58e3609-8b0d-408e-b8c3-c2893fa06c57" />
 *Breadboard connection of the circuit.*
 
-![Circuit 3](images/connection3.png)
+<img width="716" height="800" alt="Image" src="https://github.com/user-attachments/assets/e0f2dfe6-fac1-4bff-9398-e46b3fc1e3dc" />
 
-![Circuit 4](images/connection4.png)
+<img width="708" height="483" alt="Image" src="https://github.com/user-attachments/assets/21b5bc04-f884-49b2-a8a0-bfd06bab54b7" />
 ---
 
 ##  How the Code Works
